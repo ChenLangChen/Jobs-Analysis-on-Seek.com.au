@@ -19,7 +19,7 @@ The seek dataset contains 87507 job listings across 29 industries. Each job list
 - Columns of the dataset
 ![alt](screenshots/columns.png)
 
-## Job listings distribution across industries
+### Job listings distribution across industries
 ![alt](screenshots/industries.png)
 
 #### Observation
