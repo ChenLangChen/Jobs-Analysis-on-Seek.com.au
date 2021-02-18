@@ -27,7 +27,7 @@ The distribution of job listings across industries is not evenly distributed. Ho
 
 ------------------------------------------------------------------------
 
-## Buzzwords in an industry 
+## Words that stand out in an industry 
 [Reference Article](https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76)
 
 - This section aims at finding the keywords of a given industry and plotting a word cloud. 
